@@ -1,0 +1,17 @@
+body{
+	background:#0cb596;
+    color:#7c0d0d;
+
+        
+}
+div.panel-body{
+	color: #000000;
+}
+footer{
+	color:#ffffff;
+}
+a{
+	color: yellow;
+	text-decoration: underline;
+	font-weight: 700;
+}
